@@ -7,3 +7,6 @@ In order to run the application please follow the below steps:
 2. Go to respective folder structure
 3. run npm install
 4. run npm start
+
+
+Then it will run in your http://localhost:3000/
